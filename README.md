@@ -8,6 +8,6 @@
 <p align="center"><strong>Sigueme para seguir creando contenido 👊</strong> </p>
 <p align="center">
    <a href="https://youtube.com/crisistecno" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" color="#FF0000" />
+    <img align="center" src="./assets/logoyt.png" alt="crisistecno" height="28px" width="28px" color="#FF0000" />
   </a>
 </p>
