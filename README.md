@@ -1,32 +1,34 @@
-<div style="width: 1100px; margin: 0 auto; text-align: center;">
-  <p align="center" width="300">
-     <img align="center" width="200" src="./assets/eseCristhian.png" />
-     <h3 align="center">¡Que Tal Cibernautas👋! Aqui TecnoCrisis 👨🏻‍💻</h3>
-  </p>
+<p align="center">
+   <img src="./assets/eseCristhian.png" alt="EseCristhian" width="150" style="border-radius: 50%;"/>
+</p>
 
-  <p align="center">🤩 Soy <strong>Desarrollador Front-End Full Stack</strong> con 2 años experiencia. 🤩<br /></p>
-  <p align="center">Codeando el futuro, un commit a la vez. Apasionado por resolver problemas a través del código. Construyendo aplicaciones que hacen la vida más fácil.</p>
-  <p align="center"><strong>Sigueme para seguir creando contenido 👊</strong></p>
+<h3 align="center">¡Qué Tal Cibernautas 👋! Aquí TecnoCrisis 👨🏻‍💻</h3>
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <!-- TikTok -->
-    <a href="https://www.tiktok.com/@CrisisTecno" target="_blank" style="margin-right: 4px;">
-      <img align="center" src="./assets/logotiktok.png" alt="CrisisTecno TikTok" height="28px" width="28px" />
-    </a>
+<p align="center">
+   🤩 Soy <strong>Desarrollador Front-End Full Stack</strong> con 2 años de experiencia. 🤩<br />
+   Codeando el futuro, un commit a la vez. Apasionado por resolver problemas a través del código.<br />
+   Construyendo aplicaciones que hacen la vida más fácil.
+</p>
 
-    <!-- YouTube -->
-    <a href="https://youtube.com/@CrisisTecno" target="_blank" style="margin-right: 4px;">
-      <img align="center" src="./assets/logoyt.png" alt="crisistecno" height="28px" width="28px" />
-    </a>
+<p align="center">
+   <strong>¡Sígueme para seguir creando contenido 👊!</strong>
+</p>
 
-    <!-- Instagram -->
-    <a href="https://www.instagram.com/crisistecno" target="_blank" style="margin-right: 4px;">
-      <img align="center" src="./assets/logoig.png" alt="CrisisTecno Instagram" height="28px" width="28px" />
-    </a>
-
-    <!-- LinkedIn -->
-    <a href="https://acortar.link/ax5yPz" target="_blank" style="margin-right: 4px;">
-      <img align="center" src="./assets/logolinkedin.png" alt="CrisisTecno LinkedIn" height="28px" width="28px" />
-    </a>
-  </div>
-</div>
+<p align="center">
+   <!-- TikTok -->
+   <a href="https://www.tiktok.com/@CrisisTecno" target="_blank" style="margin-right: 8px;">
+      <img src="./assets/logotiktok.png" alt="CrisisTecno TikTok" width="32px" />
+   </a>
+   <!-- YouTube -->
+   <a href="https://youtube.com/@CrisisTecno" target="_blank" style="margin-right: 8px;">
+      <img src="./assets/logoyt.png" alt="CrisisTecno YouTube" width="32px" />
+   </a>
+   <!-- Instagram -->
+   <a href="https://www.instagram.com/crisistecno" target="_blank" style="margin-right: 8px;">
+      <img src="./assets/logoig.png" alt="CrisisTecno Instagram" width="32px" />
+   </a>
+   <!-- LinkedIn -->
+   <a href="https://acortar.link/ax5yPz" target="_blank" style="margin-right: 8px;">
+      <img src="./assets/logolinkedin.png" alt="CrisisTecno LinkedIn" width="32px" />
+   </a>
+</p>
