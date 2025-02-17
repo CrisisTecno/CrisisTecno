@@ -5,7 +5,7 @@
 <h3 align="center">¡Qué Tal Cibernautas 👋! Aquí TecnoCrisis 👨🏻‍💻</h3>
 
 <p align="center">
-   🤩 Soy <strong>Desarrollador Front-End Full Stack</strong> con 2 años de experiencia. 🤩<br />
+   🤩 Soy <strong>Desarrollador Front-End Full Stack</strong> con 3 años ++ de experiencia. 🤩<br />
    Codeando el futuro, un commit a la vez. Apasionado por resolver problemas a través del código.<br />
    Construyendo aplicaciones que hacen la vida más fácil.
 </p>
