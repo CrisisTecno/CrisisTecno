@@ -1,0 +1,36 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title>Átomo animado</title>
+  <desc>Un átomo estilizado con tres electrones orbitando un núcleo</desc>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FFD54F"/>
+      <stop offset="100%" stop-color="#FF6F00"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Orbitales -->
+  <ellipse cx="64" cy="64" rx="42" ry="18" fill="none" stroke="#66E0FF" stroke-width="2" opacity="0.8"/>
+  <g transform="rotate(60 64 64)">
+    <ellipse cx="64" cy="64" rx="42" ry="18" fill="none" stroke="#66E0FF" stroke-width="2" opacity="0.6"/>
+  </g>
+  <g transform="rotate(-60 64 64)">
+    <ellipse cx="64" cy="64" rx="42" ry="18" fill="none" stroke="#66E0FF" stroke-width="2" opacity="0.6"/>
+  </g>
+
+  <!-- Núcleo -->
+  <circle cx="64" cy="64" r="8" fill="url(#g)"/>
+
+  <!-- Electrones (se animan rotando en distintos radios/velocidades) -->
+  <g transform-origin="64 64">
+    <circle cx="64" cy="22" r="3" fill="#00E5FF"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 64 64" to="360 64 64" dur="2s" repeatCount="indefinite"/>
+  </g>
+  <g transform-origin="64 64">
+    <circle cx="64" cy="16" r="3" fill="#7C4DFF"/>
+    <animateTransform attributeName="transform" type="rotate" from="360 64 64" to="0 64 64" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <g transform-origin="64 64">
+    <circle cx="64" cy="30" r="3" fill="#69F0AE"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 64 64" to="360 64 64" dur="2.6s" repeatCount="indefinite"/>
+  </g>
+</svg>
