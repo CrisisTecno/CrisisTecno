@@ -81,21 +81,6 @@
 </p>
 
 <p align="center">
-  <em>
-    Gran parte de lo que he aprendido proviene de recursos gratuitos, que me abrieron puertas y oportunidades.
-    Mi objetivo con <strong>CrisisTecno</strong> es <strong>devolver a la comunidad</strong>, creando contenido de calidad que facilite el
-    aprendizaje y el desarrollo profesional de otros entusiastas. <strong>Siempre mostrando lo alucinante y divertido de este mundo,
-    invitándote a abrazar el futuro</strong> 🌟.
-  </em>
-</p>
-
-<p align="center">
-  <em><strong>Mi misión:</strong> mostrar el futuro, hoy.</em>
-</p>
-
-<hr />
-
-<p align="center">
   <strong>¡Sígueme para seguir creando contenido! 👊</strong>
 </p>
 
@@ -114,6 +99,22 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <em>
+    Gran parte de lo que he aprendido proviene de recursos gratuitos, que me abrieron puertas y oportunidades.
+    Mi objetivo con <strong>CrisisTecno</strong> es <strong>devolver a la comunidad</strong>, creando contenido de calidad que facilite el
+    aprendizaje y el desarrollo profesional de otros entusiastas. <strong>Siempre mostrando lo alucinante y divertido de este mundo,
+    invitándote a abrazar el futuro</strong> 🌟.
+  </em>
+</p>
+
+<p align="center">
+  <em><strong>Mi misión:</strong> mostrar el futuro, hoy.</em>
+</p>
+
+<hr />
+
 
 <br />
 
