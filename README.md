@@ -7,13 +7,27 @@
 </h1>
 
 <!-- Avatar centrado con decoraciones laterales -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"
-       alt="Decoración izquierda" width="150" />
-  <img src="./assets/eseCristhian.png" alt="Foto principal" width="150" />
-  <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"
-       alt="Decoración derecha" width="150" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"
+        alt="Decoración izquierda"
+        width="80"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/eseCristhian.png" alt="Foto principal" width="150" />
+    </td>
+    <td align="center" valign="middle">
+      <img
+        src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"
+        alt="Decoración derecha"
+        width="80"
+      />
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="center">RESUMEN PROFESIONAL</h2>
