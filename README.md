@@ -60,10 +60,10 @@
 <!-- Sobre mí -->
 <p align="center">
   <em>
-    Soy <strong>autodidacta certificado</strong>. Mi ruta de aprendizaje me ha llevado a comprender cómo funcionan las
+    Soy <strong>autodidacta certificado</strong>. Mi ruta de aprendizaje independiente me ha llevado a comprender cómo funcionan las
     <strong>aplicaciones web</strong> y <strong>móviles</strong> de extremo a extremo: desde la interfaz hasta su comunicación con
     <strong>servidores</strong> y <strong>bases de datos</strong>. En mi experiencia laboral me he destacado por buscar siempre
-    <strong>la mejor solución</strong>, con foco en el <strong>usuario final</strong> y atención a los <strong>detalles</strong> que marcan la diferencia ✨.
+    <strong>la mejor solución</strong>, con foco en el <strong>usuario final</strong> buscando siempre ofrecer resultados de calidad con suma atención a los <strong>detalles</strong> que marcan la diferencia ✨.
   </em>
 </p>
 
