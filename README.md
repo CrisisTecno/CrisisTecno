@@ -11,14 +11,14 @@
   <tr>
     <td align="center">
       <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"
-           alt="decoración izquierda" width="80" />
+           alt="decoración izquierda" width="100" />
     </td>
     <td align="center">
       <img src="./assets/eseCristhian.png" alt="Foto principal" width="150" />
     </td>
     <td align="center">
       <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"
-           alt="decoración derecha" width="80" />
+           alt="decoración derecha" width="100" />
     </td>
   </tr>
 </table>
@@ -85,20 +85,15 @@
 </p>
 
 <!-- Botones de redes -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.tiktok.com/@CrisisTecno" aria-label="TikTok CrisisTecno">
-        <img src="./assets/btns/tiktok.png" alt="Contenido en TikTok" width="360" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.twitch.tv/crisistecno" aria-label="Twitch CrisisTecno">
-        <img src="./assets/btns/twich.png" alt="Directos en Twitch" width="360" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.tiktok.com/@CrisisTecno" aria-label="TikTok CrisisTecno">
+    <img src="./assets/btns/tiktok.png" alt="Contenido en TikTok" width="360" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/crisistecno" aria-label="Twitch CrisisTecno">
+    <img src="./assets/btns/twich.png" alt="Directos en Twitch" width="360" />
+  </a>
+</p>
 
 <p align="center">
   <em>
