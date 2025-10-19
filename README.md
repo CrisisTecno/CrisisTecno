@@ -16,7 +16,7 @@
 </p>
 
 
-<h3 align="center">Resumen profesional</h3>
+<h2 align="center">RESUMEN PROFESIONAL</h2>
 
 <p align="center">
   Desarrollador <strong>Front‑End Full‑Stack</strong>, entusiasta de la <strong>tecnología</strong> y las <strong>soluciones</strong>.
@@ -24,31 +24,8 @@
   <strong>optimicen</strong> procesos empresariales.
 </p>
 
-<!-- Tech stack -->
-<h3 align="center">Tech Stack</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev" aria-label="Frontend">
-    <img src="https://skillicons.dev/icons?i=figma,html,htmx,css,less,scss,materialui,tailwind,js,ts,react,redux,rxjs,nextjs" alt="Frontend stack" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev" aria-label="Backend y Lenguajes">
-    <img src="https://skillicons.dev/icons?i=c,python,nodejs,fastapi,flask,django" alt="Backend y lenguajes" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev" aria-label="Bases de datos y Plataformas">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,vercel,heroku" alt="Bases de datos y plataformas" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev" aria-label="Herramientas">
-    <img src="https://skillicons.dev/icons?i=postman,github,flutter" alt="Herramientas y Flutter" />
-  </a>
-</p>
-
 <!-- Sobre mí -->
+<h2 align="center">ACERCA DE MI</h2>
 <p align="center">
   <em>
     Soy <strong>autodidacta certificado</strong>. Mi ruta de aprendizaje independiente me ha llevado a comprender cómo funcionan las
@@ -57,6 +34,55 @@
     <strong>la mejor solución</strong>, con foco en el <strong>usuario final</strong> buscando siempre ofrecer resultados de calidad con suma atención a los <strong>detalles</strong> que marcan la diferencia ✨.
   </em>
 </p>
+
+<!--stack-->
+<h2 align="center">MI STACK</h2>
+<p align="center"><em>
+  Fundamentos → Front‑End → Back‑End → Datos → Despliegue/DevOps → Móvil
+</em></p>
+
+<h3 align="center"><em>Fundamentos 🌱</em></h3>
+<p align="center">
+  <a href="https://skillicons.dev" aria-label="Fundamentos">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,git,github" alt="Fundamentos: HTML, CSS, JS, TS, Git, GitHub" />
+  </a>
+</p>
+
+<h3 align="center"><em>Front‑End ⚛️</em></h3>
+<p align="center">
+  <a href="https://skillicons.dev" aria-label="Front-End">
+    <img src="https://skillicons.dev/icons?i=figma,materialui,htmx,tailwind,astro,rxjs,react,redux,nextjs" alt="Front-End: React, Next.js, Redux, RxJS, Tailwind, MUI, HTMX, Figma" />
+  </a>
+</p>
+
+<h3 align="center"><em>Back‑End 🛠️</em></h3>
+<p align="center">
+  <a href="https://skillicons.dev" aria-label="Back-End">
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,postman" alt="Back-End: Node.js, Python, FastAPI, Flask, Django, Postman" />
+  </a>
+</p>
+
+<h3 align="center"><em>Datos 🗄️</em></h3>
+<p align="center">
+  <a href="https://skillicons.dev" aria-label="Bases de datos">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" alt="Datos: MySQL, PostgreSQL, MongoDB, Firebase" />
+  </a>
+</p>
+
+<h3 align="center"><em>Despliegue / DevOps ☁️</em></h3>
+<p align="center">
+  <a href="https://skillicons.dev" aria-label="Despliegue y DevOps">
+    <img src="https://skillicons.dev/icons?i=docker,vercel,heroku,aws,github" alt="Despliegue/DevOps: Vercel, Heroku, AWS, GitHub" />
+  </a>
+</p>
+
+<h3 align="center"><em>Móvil 📱</em></h3>
+<p align="center">
+  <a href="https://skillicons.dev" aria-label="Móvil">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react" alt="Móvil: Flutter" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="./assets/back_ct.jpg" alt="CrisisTecno banner" width="800" />
