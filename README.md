@@ -15,7 +15,6 @@
        alt="Decoración derecha" width="150" />
 </p>
 
-<hr />
 
 <h3 align="center">Resumen profesional</h3>
 
