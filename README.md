@@ -35,7 +35,7 @@
 <p align="center">Soy un <strong>Desarrollador Full‑Stack especializado en Front-End</strong>, con una trayectoria que comenzó en 2022 impulsada por mi entusiasmo por la <strong>tecnología</strong> y la creación de <strong>soluciones innovadoras</strong>. Inicié mi camino en el desarrollo Front-End, donde cultivé una sólida base en experiencia de usuario y diseño funcional. Con el tiempo, expandí mis habilidades hacia el desarrollo Full-Stack, comprendiendo a profundidad el <strong>ciclo completo de las aplicaciones</strong>, desde la arquitectura hasta la implementación. <br><br>Mi pasión radica en <strong>crear productos digitales que simplifiquen la vida de los usuarios </strong> y <strong>optimicen procesos empresariales</strong>, 
 
   Combinando <strong>buenas prácticas de desarrollo</strong>, principios sólidos de <strong>arquitectura de software</strong>, <strong>SOLID</strong> y <strong>patrones de diseño</strong> aplicados estratégicamente según el tipo de producto a desarrollar, transformo ideas en <strong>soluciones digitales efectivas</strong> que generan valor real para usuarios y empresas. 
-
+</p>
 
 
 <!-- Sobre mí -->
