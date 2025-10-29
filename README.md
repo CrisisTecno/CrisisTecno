@@ -58,21 +58,21 @@
 <h3 align="center"><em>Fundamentos 🌱</em></h3>
 <p align="center">
   <a href="https://skillicons.dev" aria-label="Fundamentos">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,git,github" alt="Fundamentos: HTML, CSS, JS, TS, Git, GitHub" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,git" alt="Fundamentos: HTML, CSS, JS, TS, Git, GitHub" />
   </a>
 </p>
 
 <h3 align="center"><em>Front‑End ⚛️</em></h3>
 <p align="center">
   <a href="https://skillicons.dev" aria-label="Front-End">
-    <img src="https://skillicons.dev/icons?i=figma,materialui,htmx,tailwind,astro,rxjs,react,redux,nextjs" alt="Front-End: React, Next.js, Redux, RxJS, Tailwind, MUI, HTMX, Figma" />
+    <img src="https://skillicons.dev/icons?i=figma,astro,rxjs,react,redux" alt="Front-End: React, Next.js, Redux, RxJS, Tailwind, MUI, HTMX, Figma" />
   </a>
 </p>
 
 <h3 align="center"><em>Back‑End 🛠️</em></h3>
 <p align="center">
   <a href="https://skillicons.dev" aria-label="Back-End">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,postman" alt="Back-End: Node.js, Python, FastAPI, Flask, Django, Postman" />
+    <img src="https://skillicons.dev/icons?i=nextjs,fastapi,flask,django,postman" alt="Back-End: Node.js, Python, FastAPI, Flask, Django, Postman" />
   </a>
 </p>
 
