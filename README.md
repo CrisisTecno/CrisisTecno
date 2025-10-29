@@ -1,7 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" /><br><br>
 
 <h1 align="center"><b>BIENVENIDO TECNONAUTA, LIST@ PARA ABRAZAR EL FUTURO? 🚀</b></h1>
-<h1 align="center"><b>AQUI CRISISTECNO</b></h1>
+<h1 align="center"><b>AQUI CRISISTECNO 👋</b></h1>
+<h1 align="center"> <i><b>FRONT-END FULLSTACK</b></i> </h1>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="saludo" />
 </h1>
