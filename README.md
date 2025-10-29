@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" /><br><br>
 
-<h1 align="center"><b>BIENVENIDO TECNONAUTA, LIST@ PARA ABRAZAR EL FUTURO? 🚀</b></h1>
-<h1 align="center"><b>AQUI CRISISTECNO 👋</b></h1>
+<h1 align="center"><b>🚀BIENVENIDO TECNONAUTA,AQUI CRISISTECNO🚀</b></h1>
 <h1 align="center"> <i><b>FRONT-END FULLSTACK</b></i> </h1>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="saludo" />
@@ -33,11 +32,7 @@
 
 <h2 align="center">RESUMEN PROFESIONAL</h2>
 
-<p align="center">
-  Desarrollador <strong>Front‑End Full‑Stack</strong>, entusiasta de la <strong>tecnología</strong> y las <strong>soluciones</strong>.
-  Apasionado por crear productos digitales que <strong>simplifiquen</strong> la vida de las personas (usuarios) y
-  <strong>optimicen</strong> procesos empresariales.
-</p>
+<p align="center">Soy un <strong>Desarrollador Full‑Stack especializado en Front-End</strong>, con una trayectoria que comenzó en 2022 impulsada por mi entusiasmo por la <strong>tecnología</strong> y la creación de <strong>soluciones innovadoras</strong>. Inicié mi camino en el desarrollo Front-End, donde cultivé una sólida base en experiencia de usuario y diseño funcional. Con el tiempo, expandí mis habilidades hacia el desarrollo Full-Stack, comprendiendo a profundidad el <strong>ciclo completo de las aplicaciones</strong>, desde la arquitectura hasta la implementación. <br><br>Me he formado con buenas prácticas, integración continua y despliegue automatizado, lo que me permite entregar productos eficientes y escalables. <br><br>Mi pasión radica en <strong>crear productos digitales que simplifiquen la vida de las personas</strong> y <strong>optimicen procesos empresariales</strong>, combinando creatividad, lógica y empatía para transformar ideas en soluciones reales.</p>
 
 <!-- Sobre mí -->
 <h2 align="center">ACERCA DE MI</h2>
@@ -137,7 +132,7 @@
 </p>
 
 <p align="center">
-  <em><strong>Mi misión:</strong> mostrar el futuro, hoy.</em>
+  <em><strong>Mi misión:</strong> Mostrar el FUTURO, HOY.</em>
 </p>
 
 <hr />
